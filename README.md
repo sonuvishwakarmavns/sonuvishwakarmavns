@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sonu Vishwakarma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🌐 Socials:
@@ -16,8 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sonuvishwakarmavns&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuvishwakarmavns&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sonuvishwakarmavns&limit=5&theme=dark&combine_all_yearly_contributions=true)
